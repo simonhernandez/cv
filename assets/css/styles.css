@@ -360,6 +360,10 @@ img{
   font-size: var(--small-font-size);
 }
 
+.home__information a {
+  color: inherit;
+}
+
 .home__icon{
   font-size: 1.2rem;
   margin-right: .25rem;
