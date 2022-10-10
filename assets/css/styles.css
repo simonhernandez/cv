@@ -12,6 +12,7 @@
   --container-color: #FAFAFA;
   --container-color-alt: #F0EFEF;
   --body-color: #FCFCFC;
+  --accent-color: #FF5353;
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -339,6 +340,7 @@ img{
   border-radius: 50%;
   justify-self: center;
   margin-bottom: var(--mb-1);
+  border: 2px solid var(--accent-color);
 }
 
 .home__title{
@@ -429,7 +431,7 @@ img{
   display: block;
   width: 16px;
   height: 16px;
-  background-color: var(--text-color-light);
+  background-color: var(--accent-color);
   border-radius: 50%;
   margin-top: .25rem;
 }
