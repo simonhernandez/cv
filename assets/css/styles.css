@@ -76,7 +76,7 @@ body.scale-cv{
   --h2-font-size: .844rem;
   --h3-font-size: .733rem;
   --normal-font-size: .688rem;
-  --small-font-size: .544rem;
+  --small-font-size: .588rem;
   --smaller-font-size: .433rem;
 }
 
@@ -106,7 +106,7 @@ body.scale-cv{
 }
 
 .scale-cv .section{
-  padding: 1.1rem 0 .80rem;
+  padding: 1.1rem 0 .6rem;
 }
 
 .scale-cv .section-title{
